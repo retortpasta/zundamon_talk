@@ -1,4 +1,7 @@
 # ずんだもんトーク
+
+![image](https://github.com/retortpasta/zundamon_talk/blob/main/pic/image001.png)
+
 ## 概要
 ChatGPTの返答をVoiceVoxで、音声として受け取れるGUIです。
 
